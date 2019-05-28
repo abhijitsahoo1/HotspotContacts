@@ -14,7 +14,7 @@
             $("#btnClick").click(function () {
                 alert('Hello');
                 $.ajax({
-                    url: "json/Contacts.json", success: function (result) {
+                    url: "Contacts.json", success: function (result) {
                         $("#demo").append("<p>" + result.contacts[0].name);
                     }
                 });

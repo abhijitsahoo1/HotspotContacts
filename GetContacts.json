@@ -1,0 +1,52 @@
+{  
+   "contacts":[  
+      {  
+         "name":"reception",
+         "label":"Main Reception",
+         "openingHours":"6am to 8pm",
+         "displayOpeningHours":true,
+         "phoneNumber":"(08) 9179 6300",
+         "secondaryPhoneNumber":"",
+         "displayPhoneNumber":true,
+         "emailAddress":"adminwarrawandu@spotless.com.au",
+         "displayEmailAddress":true,
+         "subtitle":"",
+         "displaySubtitle":false,
+         "displayMapButton":true,
+         "uxIsSelected":false,
+         "uxIsDisabled":false
+      },
+      {  
+         "name":"security",
+         "label":"Village Security & Room Lockouts",
+         "openingHours":"24/7",
+         "displayOpeningHours":true,
+         "phoneNumber":"0455 844 738",
+         "secondaryPhoneNumber":"(08) 9179 6300",
+         "displayPhoneNumber":true,
+         "emailAddress":"",
+         "displayEmailAddress":false,
+         "subtitle":"Call for snake or reptile sightings",
+         "displaySubtitle":true,
+         "displayMapButton":true,
+         "uxIsSelected":false,
+         "uxIsDisabled":false
+      },
+      {  
+         "name":"bus-services",
+         "label":"Bus Services Hotline",
+         "openingHours":"",
+         "displayOpeningHours":false,
+         "phoneNumber":"0429 491 550",
+         "secondaryPhoneNumber":"",
+         "displayPhoneNumber":true,
+         "emailAddress":"buswarrawandu@spotless.com.au",
+         "displayEmailAddress":true,
+         "subtitle":"",
+         "displaySubtitle":false,
+         "displayMapButton":false,
+         "uxIsSelected":false,
+         "uxIsDisabled":false
+      }
+   ]
+}
